@@ -1,0 +1,27 @@
+.bio {
+    color: #3e497a;
+    background-color: #f2f2f2c7;
+    border: 10px solid #3e497a;
+    font-size: 15px;
+    padding: 40px;
+    height: auto;
+    width: auto;
+    display: auto;
+    margin: auto 70;
+    margin-bottom: auto;
+    justify-content: safe;
+    /* flex-direction: column; */
+    align-items:center;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.picture {
+    display: block;
+    border: 1px solid  #3e497a;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}

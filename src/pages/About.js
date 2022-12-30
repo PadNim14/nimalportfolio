@@ -1,0 +1,24 @@
+import React from 'react';
+import '../styles/About.css';
+import home from '../assets/home.jpg';
+
+function About() {
+  return (
+    <div>
+      <img src={home} className="picture" ></img>
+      <figcaption><center>Walking around Mt. Tamalpais in San Francisco, Summer 2022</center></figcaption>
+      <p className='bio'>
+        I am currently a senior studying Computer Engineering at Purdue University and will graduate in May 2023.
+        My main interests lie in software engineering, specifically full-stack development.
+        As a computer engineering student, I have the flexibility to take both hardware and software classes.
+        As such, I have experience in digital logic design, microprocessor design and embedded systems,
+        along with learning frontend frameworks, basic data structures and algorithms,
+        and advanced software engineering tools and principles.
+        Outside of academics, I have a small YouTube channel documenting my life as an ECE student and my adventures.
+        I like to travel, eat delicious food, spend time with my family, and contemplate the meaning of life.
+      </p>
+    </div>
+  )
+}
+
+export default About
