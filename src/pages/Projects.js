@@ -1,7 +1,6 @@
 import React from 'react'
 import ProjectItem from '../components/ProjectItem'
 import '../styles/Projects.css';
-import Video from '../helpers/Video';
 import { ProjectList } from '../helpers/ProjectList';
 
 function Projects() {
@@ -13,7 +12,7 @@ function Projects() {
           return <ProjectItem id={idx} name={project.name} image={project.image} />
         })}
       </div>
-      {/* <Video /> */}
+
     </div>
   )
 }
