@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9adcdfd3.css",
-    "main.js": "/static/js/main.da1682a7.js",
-    "static/js/787.e7a2299f.chunk.js": "/static/js/787.e7a2299f.chunk.js",
-    "static/media/os.png": "/static/media/os.204211708f69b12a913e.png",
-    "static/media/home.jpg": "/static/media/home.a3d6077dec2889e4172a.jpg",
-    "static/media/invaders.png": "/static/media/invaders.f7c537784ab90abe909b.png",
-    "static/media/pokedex.png": "/static/media/pokedex.a6aceb8426af4088c070.png",
-    "static/media/profile-2.jpg": "/static/media/profile-2.adbf14f1abdd8808744a.jpg",
-    "static/media/resume.pdf": "/static/media/resume.317041e7eb53b55e747b.pdf",
-    "static/media/ems.jpg": "/static/media/ems.f1534829c444020a2d30.jpg",
-    "static/media/pacers.jpg": "/static/media/pacers.74ca4acc34ce2894469a.jpg",
-    "static/media/compiler.png": "/static/media/compiler.6b3c12f07d2d8461b59a.png",
-    "static/media/rogue.png": "/static/media/rogue.432a7e8a806454f992c5.png",
-    "static/media/verilog.png": "/static/media/verilog.caa2def6b1c94c96e028.png",
-    "index.html": "/index.html",
-    "main.9adcdfd3.css.map": "/static/css/main.9adcdfd3.css.map",
-    "main.da1682a7.js.map": "/static/js/main.da1682a7.js.map",
-    "787.e7a2299f.chunk.js.map": "/static/js/787.e7a2299f.chunk.js.map"
+    "main.css": "/home/static/css/main.9adcdfd3.css",
+    "main.js": "/home/static/js/main.67915883.js",
+    "static/js/787.e7a2299f.chunk.js": "/home/static/js/787.e7a2299f.chunk.js",
+    "static/media/os.png": "/home/static/media/os.204211708f69b12a913e.png",
+    "static/media/home.jpg": "/home/static/media/home.a3d6077dec2889e4172a.jpg",
+    "static/media/invaders.png": "/home/static/media/invaders.f7c537784ab90abe909b.png",
+    "static/media/pokedex.png": "/home/static/media/pokedex.a6aceb8426af4088c070.png",
+    "static/media/profile-2.jpg": "/home/static/media/profile-2.adbf14f1abdd8808744a.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.317041e7eb53b55e747b.pdf",
+    "static/media/ems.jpg": "/home/static/media/ems.f1534829c444020a2d30.jpg",
+    "static/media/pacers.jpg": "/home/static/media/pacers.74ca4acc34ce2894469a.jpg",
+    "static/media/compiler.png": "/home/static/media/compiler.6b3c12f07d2d8461b59a.png",
+    "static/media/rogue.png": "/home/static/media/rogue.432a7e8a806454f992c5.png",
+    "static/media/verilog.png": "/home/static/media/verilog.caa2def6b1c94c96e028.png",
+    "index.html": "/home/index.html",
+    "main.9adcdfd3.css.map": "/home/static/css/main.9adcdfd3.css.map",
+    "main.67915883.js.map": "/home/static/js/main.67915883.js.map",
+    "787.e7a2299f.chunk.js.map": "/home/static/js/787.e7a2299f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9adcdfd3.css",
-    "static/js/main.da1682a7.js"
+    "static/js/main.67915883.js"
   ]
 }
