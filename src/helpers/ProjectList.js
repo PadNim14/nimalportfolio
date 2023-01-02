@@ -10,42 +10,58 @@ export const ProjectList = [
     {
         name: "Micro-C Compiler",
         image: compiler,
-        skills: "Java, x86 Assembly, C"
+        skills: "Java, x86 Assembly, C",
+        link: "Get permission"
+        
     },
     {
         name: "Paramedic Health Dashboard",
         image: ems,
-        skills: "Python, React.js, Google Firebase, Dash, Figma"
+        skills: "Python, React.js, Google Firebase, Dash, Figma",
+        link: "https://github.com/purdue-ehealth-projects"
+        
     },
     {
         name: "Boiler Invaders",
         image: invaders,
-        skills: "C, Thumb ISA of ARM, Python"
+        skills: "C, Thumb ISA of ARM, Python",
+        link: "https://github.com/Rkothand/BoilerInvaders"
     },
     {
         name: "jos",
         image: os,
-        skills: "C"
+        skills: "C",
+        link: "Get permission"
+        
     },
     {
         name: "Spectivity",
         image: pacers,
-        skills: "React.js, Node.js, HTML/CSS, IBM Cloudant"
+        skills: "React.js, Node.js, HTML/CSS, IBM Cloudant",
+        link: "https://github.com/PadNim14/ATTHack",
+        // video: ""
+        
     },
     {
         name: "Pokedex Encyclopedia Viewer",
         image: poke,
-        skills: "React.js"
+        skills: "React.js, HTML/CSS, Material-UI",
+        link: "https://github.com/PadNim14/pokedex"
+        
     },
-    {
-        name: "FPGA Nonsense",
-        image: verilog,
-        skills: "SystemVerilog"
-    },
+    // {
+    //     name: "FPGA Nonsense",
+    //     image: verilog,
+    //     skills: "SystemVerilog",
+    //     link: "Get permission"
+        
+    // },
     {
         name: "Rogue Dungeon Crawler",
         image: rogue,
-        skills: "Java, Object-Oriented Programming, XML"
+        skills: "Java, Object-Oriented Programming, XML",
+        link: "https://github.com/PadNim14/JAVAPROJECT"
+        
     },
 
 ]

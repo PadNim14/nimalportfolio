@@ -16,10 +16,10 @@ function Resume() {
     
     return (
         <div className='resume'>
+            <a href={resume} target='_blank'>View in PDF form</a>
             <Document file={resume} options={{workerSrc: "/pdf.worker.js"}} onLoadSuccess={onDocLoadSuccess}>
                 <Page pageNumber={pageNum} />
             </Document>
-            
         </div>
     )
 }

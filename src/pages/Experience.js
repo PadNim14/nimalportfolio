@@ -10,33 +10,25 @@ function Experience() {
             <VerticalTimeline lineColor='#3e497a'>
                 <VerticalTimelineElement
                     className='vertical-timeline-element--education'
-                    date="August 2019"
+                    date="August 2019 - May 2023"
                     iconStyle={{ background: "#3e497a", color: "#fff" }}
                     icon={<SchoolIcon />}
                 >
-                    <h3 className='vertical-timeline-element-title'>Attending Purdue University: West Lafayette, Indiana</h3>
+                    <h3 className='vertical-timeline-element-title'> Purdue University, West Lafayette, Indiana</h3>
                     <p>
-                        Started my first year as FYE (first-year engineering) student at Purdue University
-                        <br />
-                        Explored interests in engineering design and introductory programming (MATLAB and C)
+                       Bachelor of Science in Computer Engineering, (BSCMPE)
                     </p>
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement
                     className='vertical-timeline-element--education'
-                    date="August 2019 - December 2019"
+                    date="August 2022 - present"
                     iconStyle={{ background: "#e9d35b", color: "#fff" }}
                     icon={<WorkIcon />}
                 >
-                    <h3 className='vertical-timeline-element-title'>Student Cook at Earhart Dining Court</h3>
+                    <h3 className='vertical-timeline-element-title'>Software Engineering Tools Teaching Assistant</h3>
                     <p>
-                        First real job I ever had, learned a great deal about working in a retail-like setting
-                        <br />
-                        Working Saturday dinner shifts made me realize two things: 
-                        <ol>
-                            <li>I didn't have Satudays to myself. </li>
-                            <li>I always felt tired after closing the dining court until well past midnight.</li> 
-                        </ol>
+                    
                     
                     </p>
                 </VerticalTimelineElement>
