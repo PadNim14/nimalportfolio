@@ -15,11 +15,11 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/bio' element={<Bio />} />
-          <Route path='/resume' element={<Resume />} />
-          <Route path='/projects' element={<Projects />} />
-          <Route path='project/:id' element={<ProjectDisplay />} />
+          <Route path='/nimalportfolio' element={<Home />} />
+          <Route path='/nimalportfolio/bio' element={<Bio />} />
+          <Route path='/nimalportfolio/resume' element={<Resume />} />
+          <Route path='/nimalportfolio/projects' element={<Projects />} />
+          <Route path='/nimalportfolio/project/:id' element={<ProjectDisplay />} />
           {/* <Route path='/experience' element={<Experience />} /> */}
         </Routes>
         <Footer />

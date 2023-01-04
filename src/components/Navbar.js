@@ -23,10 +23,11 @@ function Navbar() {
                 </button>
             </div>
             <div className='links'>
-                <Link to="/">Home</Link>
-                <Link to="/bio">Bio</Link>
-                <Link to="/resume">Resume</Link>
-                <Link to="/projects">Projects</Link>
+                <Link to="/nimalportfolio/">Home</Link>
+                <Link to="/nimalportfolio/bio">Bio</Link>
+                <Link to="/nimalportfolio/resume">Resume</Link>
+                <Link to="/nimalportfolio/projects">Projects</Link>
+                {/* <Link to="/courses">Courses</Link> */}
                 {/* <Link to="/experience">Experience</Link> */}
             </div>
         </div>

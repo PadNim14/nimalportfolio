@@ -24,7 +24,7 @@ export const ProjectList = [
     {
         name: "Boiler Invaders",
         image: invaders,
-        skills: "C, Thumb ISA of ARM, Python",
+        skills: "C, Thumb ISA of ARM, Python, KiCad (PCB Design)",
         link: "https://github.com/Rkothand/BoilerInvaders"
     },
     {

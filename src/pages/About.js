@@ -12,7 +12,7 @@ function Bio() {
         I am interested in software engineering, specifically full-stack development, computer security, and cloud computing.
         I have recent work experience as a Technology Intern at Wells Fargo during the Summer 2022 session at the San Francisco headquarters doing full-stack
         development and cloud computing with the Information Services team.
-        
+        In addition, I serve as an undergraduate teaching assistant for an ECE course that teaches students introductory software engineering tools and frameworks.
         As a computer engineering student, I have the flexibility to take both hardware and software classes.
         As such, I have experience in digital logic design, microprocessor design and embedded systems,
         along with learning frontend frameworks, basic data structures and algorithms,
