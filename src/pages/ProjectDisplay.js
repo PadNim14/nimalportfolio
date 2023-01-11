@@ -16,7 +16,7 @@ function ProjectDisplay() {
             <h1>{project.name}</h1>
             <img src={project.image} />
             <p>
-                <b>Skills:</b> {project.skills}
+                <b>Skill(s):</b> {project.skills}
             </p>
 
             <a href={project.link} target="_blank" rel="noopener noreferrer">

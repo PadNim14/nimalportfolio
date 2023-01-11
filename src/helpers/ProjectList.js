@@ -10,7 +10,7 @@ export const ProjectList = [
     {
         name: "Micro-C Compiler",
         image: compiler,
-        skills: "Java, x86 Assembly, C",
+        skills: "Java, RISC-V Assembly, C",
         link: "Get permission",
         desc: "Created a parser that deals with a subset of the C language that supports features like loops, pointers, and (barely) register allocation"
         
@@ -34,7 +34,7 @@ export const ProjectList = [
     {
         name: "jos",
         image: os,
-        skills: "C",
+        skills: "C, x86, qemu",
         link: "Get permission",
         desc: "Created an exokernel version of an operating system, which is based off of MIT's jos lectures and labs"
         
@@ -58,13 +58,14 @@ export const ProjectList = [
 
         
     },
-    // {
-    //     name: "FPGA Nonsense",
-    //     image: verilog,
-    //     skills: "SystemVerilog",
-    //     link: "Get permission"
+    {
+        name: "FPGA Nonsense",
+        image: verilog,
+        skills: "SystemVerilog",
+        link: "Get permission",
+        desc: ""
         
-    // },
+    },
     {
         name: "Rogue Dungeon Crawler",
         image: rogue,
