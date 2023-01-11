@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/nimalportfolio/static/css/main.16153d92.css",
-    "main.js": "/nimalportfolio/static/js/main.6ab7483b.js",
+    "main.css": "/nimalportfolio/static/css/main.08d5ff13.css",
+    "main.js": "/nimalportfolio/static/js/main.7a96eb38.js",
     "static/js/787.e7a2299f.chunk.js": "/nimalportfolio/static/js/787.e7a2299f.chunk.js",
+    "static/media/beach.jpg": "/nimalportfolio/static/media/beach.01b0b051354a3abbf982.jpg",
     "static/media/os.png": "/nimalportfolio/static/media/os.204211708f69b12a913e.png",
     "static/media/home.jpg": "/nimalportfolio/static/media/home.a3d6077dec2889e4172a.jpg",
     "static/media/invaders.png": "/nimalportfolio/static/media/invaders.f7c537784ab90abe909b.png",
@@ -15,12 +16,12 @@
     "static/media/rogue.png": "/nimalportfolio/static/media/rogue.432a7e8a806454f992c5.png",
     "static/media/verilog.png": "/nimalportfolio/static/media/verilog.caa2def6b1c94c96e028.png",
     "index.html": "/nimalportfolio/index.html",
-    "main.16153d92.css.map": "/nimalportfolio/static/css/main.16153d92.css.map",
-    "main.6ab7483b.js.map": "/nimalportfolio/static/js/main.6ab7483b.js.map",
+    "main.08d5ff13.css.map": "/nimalportfolio/static/css/main.08d5ff13.css.map",
+    "main.7a96eb38.js.map": "/nimalportfolio/static/js/main.7a96eb38.js.map",
     "787.e7a2299f.chunk.js.map": "/nimalportfolio/static/js/787.e7a2299f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16153d92.css",
-    "static/js/main.6ab7483b.js"
+    "static/css/main.08d5ff13.css",
+    "static/js/main.7a96eb38.js"
   ]
 }
