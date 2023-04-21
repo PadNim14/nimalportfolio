@@ -6,7 +6,16 @@ import pacers from '../assets/pacers.jpg';
 import invaders from '../assets/invaders.png';
 import verilog from '../assets/verilog.png';
 import rogue from '../assets/rogue.png';
+import beach from '../assets/beach.jpg';
 export const ProjectList = [
+    {
+        name: "College Recommender (In-progress)",
+        image: beach,
+        skills: "React.js, Node.js, Google Firebase",
+        link: "Get permission",
+        desc: "Final senior design project that will eventually recommend colleges to prospective undergrads based on cost of attendance"
+        
+    },
     {
         name: "Micro-C Compiler",
         image: compiler,
@@ -59,11 +68,11 @@ export const ProjectList = [
         
     },
     {
-        name: "FPGA Nonsense",
+        name: "FPGA Work",
         image: verilog,
         skills: "SystemVerilog",
         link: "Get permission",
-        desc: ""
+        desc: "An assortment of designs that include state machines, carry-look ahead adders, and etc."
         
     },
     {
