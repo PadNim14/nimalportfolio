@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/nimalportfolio/static/css/main.333b228f.css",
-    "main.js": "/nimalportfolio/static/js/main.9ab47edc.js",
+    "main.css": "/nimalportfolio/static/css/main.e91fbe90.css",
+    "main.js": "/nimalportfolio/static/js/main.3c894af3.js",
     "static/js/787.e7a2299f.chunk.js": "/nimalportfolio/static/js/787.e7a2299f.chunk.js",
+    "static/media/purdue_diploma.pdf": "/nimalportfolio/static/media/purdue_diploma.e2fbe14f65c342da6afd.pdf",
     "static/media/unirecs.png": "/nimalportfolio/static/media/unirecs.f0305fcbbc8d3c520d34.png",
     "static/media/os.png": "/nimalportfolio/static/media/os.204211708f69b12a913e.png",
     "static/media/home.jpg": "/nimalportfolio/static/media/home.a3d6077dec2889e4172a.jpg",
     "static/media/invaders.png": "/nimalportfolio/static/media/invaders.f7c537784ab90abe909b.png",
     "static/media/pokedex.png": "/nimalportfolio/static/media/pokedex.a6aceb8426af4088c070.png",
     "static/media/profile-2.jpg": "/nimalportfolio/static/media/profile-2.adbf14f1abdd8808744a.jpg",
-    "static/media/resume.pdf": "/nimalportfolio/static/media/resume.ae6b6dba6d773d53dc5d.pdf",
+    "static/media/resume.pdf": "/nimalportfolio/static/media/resume.023ff62aba3bbe2d0be0.pdf",
     "static/media/ems.jpg": "/nimalportfolio/static/media/ems.f1534829c444020a2d30.jpg",
     "static/media/pacers.jpg": "/nimalportfolio/static/media/pacers.74ca4acc34ce2894469a.jpg",
     "static/media/compiler.png": "/nimalportfolio/static/media/compiler.6b3c12f07d2d8461b59a.png",
+    "static/media/az-900.png": "/nimalportfolio/static/media/az-900.741e18184e60305b7608.png",
     "static/media/rogue.png": "/nimalportfolio/static/media/rogue.432a7e8a806454f992c5.png",
+    "static/media/gatech_long.png": "/nimalportfolio/static/media/gatech_long.e79401046c0caaa2ce1f.png",
+    "static/media/wf.png": "/nimalportfolio/static/media/wf.952544df5c4bee66b0be.png",
+    "static/media/gcp_ace.png": "/nimalportfolio/static/media/gcp_ace.cafc6b42d9959856d6d1.png",
+    "static/media/gcp_pca.png": "/nimalportfolio/static/media/gcp_pca.7ba5788c39deed4b9db0.png",
     "static/media/verilog.png": "/nimalportfolio/static/media/verilog.caa2def6b1c94c96e028.png",
+    "static/media/purdue-horz.png": "/nimalportfolio/static/media/purdue-horz.a468dcc587fcb98d9400.png",
     "index.html": "/nimalportfolio/index.html",
-    "main.333b228f.css.map": "/nimalportfolio/static/css/main.333b228f.css.map",
-    "main.9ab47edc.js.map": "/nimalportfolio/static/js/main.9ab47edc.js.map",
+    "main.e91fbe90.css.map": "/nimalportfolio/static/css/main.e91fbe90.css.map",
+    "main.3c894af3.js.map": "/nimalportfolio/static/js/main.3c894af3.js.map",
     "787.e7a2299f.chunk.js.map": "/nimalportfolio/static/js/787.e7a2299f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.333b228f.css",
-    "static/js/main.9ab47edc.js"
+    "static/css/main.e91fbe90.css",
+    "static/js/main.3c894af3.js"
   ]
 }
