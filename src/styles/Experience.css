@@ -1,0 +1,62 @@
+/* Experience.css */
+
+.experience {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  .work-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .work-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    background-color: #f0f0f0;
+  }
+  
+  .work-logo {
+    width: 60px;
+    height: auto;
+    margin-right: 15px;
+  }
+  
+  .card-body {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  .work-h2 {
+    color: #333;
+    margin: 0;
+  }
+  
+  /* Improved styling for specific elements */
+  .position {
+    font-weight: bold;
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .location {
+    color: #007bff; /* Adjust the color as needed */
+  }
+  
+  .duration {
+    font-style: italic;
+    color: #888;
+  }
+  

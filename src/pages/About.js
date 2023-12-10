@@ -4,24 +4,24 @@ import home from '../assets/home.jpg';
 
 function Bio() {
   return (
-    <div>
-      <img src={home} className="picture" ></img>
-      <figcaption><center>Walking around Mt. Tamalpais in San Francisco, Summer 2022</center></figcaption>
-      <p className='bio'>
-        I am currently a senior studying Computer Engineering at Purdue University and will graduate in May 2023.
-        I am interested in software engineering, specifically full-stack development, computer security, and cloud computing.
-        I have recent work experience as a Technology Intern at Wells Fargo during the Summer 2022 session at the San Francisco headquarters doing full-stack
-        development and cloud computing with the Information Services team.
-        In addition, I serve as an undergraduate teaching assistant for an ECE course that teaches students introductory software engineering tools and frameworks.
-        As a computer engineering student, I have the flexibility to take both hardware and software classes.
-        As such, I have experience in digital logic design, microprocessor design and embedded systems,
-        along with learning frontend frameworks, basic data structures and algorithms,
-        and advanced software engineering tools and principles.
-        Outside of academics, I have a small YouTube channel documenting my life as an college student and my adventures.
-        I also like to travel, eat delicious food, spend time with my family, and contemplate the meaning of life.
-      </p>
+    <div className="about-card">
+      <figure className="picture-container">
+        <img src={home} className="picture" alt="Mt. Tamalpais" />
+        <figcaption>Walking around Mt. Tamalpais in San Francisco, Summer 2022</figcaption>
+      </figure>
+      <div className='bio'>
+        <p className='bio-text'>
+          In May 2023, I graduated with a bachelor's degree in <strong>Computer Engineering</strong> and a certificate in <strong>Applications of Data Science</strong> from <strong>Purdue University</strong>.
+          I am currently a <strong>software engineer at Wells Fargo in San Francisco in their Technology Analyst program</strong>. I work with the <strong>iHub</strong> team, which is under <strong>Commercial and Corporate & Investment Banking Technology (CCIBT)</strong>.
+          Outside of software engineering and tech, I have a small YouTube channel documenting my life as a college student and my adventures.
+          I also like to travel, eat delicious food, spend time with my family, and contemplate the meaning of life.
+        </p>
+        <p>
+          {/* ... More paragraphs */}
+        </p>
+      </div>
     </div>
-  )
+  );
 }
 
-export default Bio
+export default Bio;

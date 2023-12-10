@@ -13,6 +13,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 15%;
+  margin: 20px; /* Add margin for spacing */
 }
 
 .typewriter {
@@ -29,6 +30,14 @@
   animation:
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
+}
+
+
+/* Adjust the font family for consistency */
+.home,
+.about,
+.skills {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* The typing effect */
@@ -65,6 +74,7 @@
   text-align: center;
   background-color: #21325e;
   color: #f0f0f0;
+  line-height: 1.6; /* Add line-height for improved readability */
 }
 
 .about h1 {
@@ -142,5 +152,26 @@
 
   .skills h2 {
     font-size: 30px;
+  }
+}
+
+/* Adjust the font size for better readability on smaller screens */
+@media only screen and (max-width: 600px) {
+  .about h2 {
+    font-size: 40px;
+  }
+
+  .about .prompt {
+    margin-top: 10px;
+    font-size: 18px;
+    width: 80%;
+  }
+
+  .skills h2 {
+    font-size: 30px;
+  }
+
+  .list span {
+    font-size: 18px;
   }
 }

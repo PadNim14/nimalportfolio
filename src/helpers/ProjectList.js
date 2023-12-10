@@ -6,14 +6,15 @@ import pacers from '../assets/pacers.jpg';
 import invaders from '../assets/invaders.png';
 import verilog from '../assets/verilog.png';
 import rogue from '../assets/rogue.png';
-import beach from '../assets/beach.jpg';
+// import beach from '../assets/beach.jpg';
+import unirecs from '../assets/unirecs.png';
 export const ProjectList = [
     {
-        name: "College Recommender (In-progress)",
-        image: beach,
-        skills: "React.js, Node.js, Google Firebase",
-        link: "Get permission",
-        desc: "Final senior design project that will eventually recommend colleges to prospective undergrads based on cost of attendance"
+        name: "College Recommender",
+        image: unirecs,
+        skills: "React.js, Python, Flask, Docker, Google Firebase",
+        link: "https://github.com/PadNim14/UniRecs",
+        desc: "Final senior design project that recommends colleges to high school students using cosine similarity models."
         
     },
     {

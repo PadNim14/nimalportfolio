@@ -9,6 +9,8 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Resume from './pages/Resume';
 import ProjectDisplay from './pages/ProjectDisplay';
+import Certifications from './pages/Certifications';
+import Education from './pages/Education';
 
 function App() {
   return (
@@ -17,11 +19,13 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/nimalportfolio' element={<Home />} />
-          <Route path='/nimalportfolio/bio' element={<Bio />} />
+          <Route path='/nimalportfolio/about' element={<Bio />} />
+          <Route path='/nimalportfolio/education' element={<Education />} />
           <Route path='/nimalportfolio/resume' element={<Resume />} />
           <Route path='/nimalportfolio/projects' element={<Projects />} />
           <Route path='/nimalportfolio/project/:id' element={<ProjectDisplay />} />
-          {/* <Route path='/experience' element={<Experience />} /> */}
+          <Route path='/nimalportfolio/experience' element={<Experience />} />
+          <Route path='/nimalportfolio/certs' element={<Certifications />} />
         </Routes>
         <Footer />
       </Router>

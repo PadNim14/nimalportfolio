@@ -1,0 +1,95 @@
+/* Education.css */
+
+/* Common styles for education cards */
+.education-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.education-item {
+  margin-bottom: 20px;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 5px; /* Add a subtle border-radius */
+}
+
+.h1, .h2, .h3 {
+  color: #333;
+}
+
+.h2 {
+  color: #555;
+}
+
+.h3 {
+  text-align: left;
+}
+
+.p {
+  font-weight: 400;
+  color: #777; /* Adjust the color for additional readability */
+}
+
+/* Custom styles for Purdue card */
+.purdue-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #CEB888;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.purdue-logo {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+/* Custom styles for Georgia Tech card */
+.georgia-tech-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  background-color: #F9F6E5;
+}
+
+.georgia-tech-logo {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+/* Style for diploma link */
+.diploma-link a {
+  color: #007bff; /* Link color */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 1px;
+  /* Add more styling as needed */
+}
+
+.diploma-link a:hover {
+  text-decoration: underline; /* Underline on hover */
+}

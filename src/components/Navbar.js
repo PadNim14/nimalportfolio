@@ -24,11 +24,12 @@ function Navbar() {
             </div>
             <div className='links'>
                 <Link to="/nimalportfolio/">Home</Link>
-                <Link to="/nimalportfolio/bio">Bio</Link>
-                <Link to="/nimalportfolio/resume">Resume</Link>
+                <Link to="/nimalportfolio/about">About</Link>
+                <Link to="/nimalportfolio/education">Education</Link>
+                <Link to="/nimalportfolio/experience">Experience</Link>
+                <Link to="/nimalportfolio/certs">Certifications</Link>
                 <Link to="/nimalportfolio/projects">Projects</Link>
-                {/* <Link to="/courses">Courses</Link> */}
-                {/* <Link to="/experience">Experience</Link> */}
+                <Link to="/nimalportfolio/resume">Resume</Link>
             </div>
         </div>
     )

@@ -1,0 +1,35 @@
+/* Certifications.css */
+
+.certifications-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.certification-card {
+  max-width: 320px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.certification-info {
+  padding: 15px;
+}
+
+.certification-description {
+  color: #555;
+  font-style: italic;
+  text-align: left;
+}
