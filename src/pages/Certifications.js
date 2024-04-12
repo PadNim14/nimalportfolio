@@ -12,17 +12,17 @@ function Certifications() {
             link: 'https://google.accredible.com/f886e57d-c667-409d-95ed-4fe5711a258c',
             desc: 'Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.'
         },
+        {
+            name: 'Professional Cloud Architect', authority: 'Google Cloud', date: 'February 2024',
+            logo: ProfessionalCloudArcLogo,
+            link: 'https://google.accredible.com/ed2d0370-cf91-48aa-a097-ff878aac569a',
+            desc: 'Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.'
+        },
         // {
-        //     name: 'Professional Cloud Architect', authority: 'Google Cloud', date: 'January 2024',
-        //     logo: ProfessionalCloudArcLogo,
-        //     link: 'https://google.accredible.com/f886e57d-c667-409d-95ed-4fe5711a258c',
-        //     desc: 'Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.'
-        // },
-        // {
-        //     name: 'Azure Fundamentals (AZ-900)', authority: 'Microsoft', date: 'March 2024',
+        //     name: 'Azure Fundamentals (AZ-900)', authority: 'Microsoft', date: 'February 2024',
         //     logo: AZ900,
         //     link: 'https://google.accredible.com/f886e57d-c667-409d-95ed-4fe5711a258c',
-        //     desc: 'As a candidate for this exam, you’re a technology professional who wants to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure.'
+        //     desc: 'As a candidate for this exam, you\'re a technology professional who wants to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure.'
         // },
         
         // Add more certifications as needed

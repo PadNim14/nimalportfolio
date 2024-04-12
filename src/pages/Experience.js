@@ -36,7 +36,8 @@ function Experience() {
         points={[
             'Successfully migrated data access UI from jQuery to Angular in response to a critical BlackDuck scan issue, resulting in a 40% reduction in page load times and a 50% increase in user satisfaction',
             'Ensured data integrity through conformance, standardization, and curation policies, reducing errors by 30%',
-            'Accelerated data retrieval with Python and Spark clusters, cutting query time by 60% for real-time analytics'
+            'Accelerated data retrieval with Python and Spark clusters, cutting query time by 60% for real-time analytics',
+            
 
           ]}
       />
